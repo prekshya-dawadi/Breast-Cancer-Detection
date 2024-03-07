@@ -1,0 +1,13 @@
+1. GANs
+2. Learning Rate? epochs?
+3. Early Stopping
+4. Data Augmentation?
+5. Choose a pre-trained networks optimized for efficiency or performance
+6. Increase the number of layers 
+7. Confusion matrix??
+8. Create a mask?
+9. Autoaugment
+10. Population based augmentation
+11. Transfer Learning
+12. Keras-tuner
+13. Regularizers and dropouts
